@@ -1,1 +1,3 @@
 # String-Copy-By-Using-C--Programming
+Author:Rup Dey <br>
+Easy For Beginner.......
